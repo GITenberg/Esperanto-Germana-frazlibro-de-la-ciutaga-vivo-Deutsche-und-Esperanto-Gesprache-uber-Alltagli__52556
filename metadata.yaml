@@ -1,0 +1,34 @@
+_repo: Esperanto-Germana-frazlibro-de-la-ciutaga-vivo-Deutsche-und-Esperanto-Gesprache-uber-Alltagli__52556
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Anton, R.
+    gutenberg_agent_id: '46922'
+    url: http://www.gutenberg.org/2009/agents/46922
+  - agent_name: Borel, J. (Jean)
+    alias: Borel, Jean
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '46923'
+    url: http://www.gutenberg.org/2009/agents/46923
+    wikipedia: https://eo.wikipedia.org/wiki/Jean_Borel
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2016-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52556'
+language:
+- eo
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German language -- Conversation and phrase books'
+- !lcsh 'Esperanto -- Conversation and phrase books'
+- !lcc 'PM'
+- GITenberg
+title: "Esperanto-Germana frazlibro de la ĉiutaga vivo\r\nDeutsche und Esperanto-Gespräche\
+  \ über Alltägliches"
+url: http://www.gutenberg.org/ebooks/52556
