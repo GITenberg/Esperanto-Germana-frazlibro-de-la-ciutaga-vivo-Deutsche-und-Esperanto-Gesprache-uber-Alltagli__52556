@@ -1,5 +1,8 @@
 _repo: Esperanto-Germana-frazlibro-de-la-ciutaga-vivo-Deutsche-und-Esperanto-Gesprache-uber-Alltagli__52556
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52556-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Anton, R.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46923
     wikipedia: https://eo.wikipedia.org/wiki/Jean_Borel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52556#Esperanto-Germana-frazlibro-de-la-ciutaga-vivo-Deutsche-und-Esperanto-Gesprache-uber-Alltagli_
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2016-07-11'
 gutenberg_type: Text
